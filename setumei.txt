@@ -1,0 +1,16 @@
+横200 0 -200右真ん中左
+高さ0 200 400 下から　上へ
+目線0 300 500 上から目線　下から目線
+デモ動画からスクショとってそれぞれに説明orz
+ワードか何かで説明書を作る感じ？mjk
+今あるやつで十分ちゃうの？
+診断のログに用いられる。
+wsl
+sudo,nano,mnt,cp,rm,tar,7z
+確認check
+/mnt/c/Users/diazy/downloads
+xx**.*@irl.sys.es.osaka-u.ac.jp
+@ecs.osaka-u.ac.jp
+issysesosakau
+IBM:gmail,Youki6852!!!
+C:\Users\diazy\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\uehara
